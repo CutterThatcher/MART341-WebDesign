@@ -1,2 +1,2 @@
-# MART341-WebDesign
+# Cutter Thatcher MART341-WebDesign
 WebDesign HW
