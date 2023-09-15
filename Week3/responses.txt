@@ -1,0 +1,2 @@
+1. Advantages to using a text editor are they speed up the writing process and are specially equipped to display text documents in a way that makes identifying errors easier.
+An advantage of a relative URL would be that they are shorter than absolute URLs. Whether you use one or the other depends on if the site you are trying to use is separate from you or not.
