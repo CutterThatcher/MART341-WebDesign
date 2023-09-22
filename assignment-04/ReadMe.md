@@ -1,0 +1,6 @@
+1. The user interface is presented so the user can interact with it. A web browser then uses a rendering engine to take in HTML and CSS documents to display the visual representation of the page. The browser engine is then used to direct actions between the user interface and the rendering engine. The browser then communicates over the network to get all the necessary files. The browser then uses a javascript interpreter to handle javascript code.
+2. DOM stands for Document Object Model. The DOM is an object representation of the HTML document.
+3. HTML displays document nodes while XML describes document nodes. XHTML combines the two to correct lenient behaviors of HTML.
+4. The 4 elements an HTML page needs are the doctype declaration, the root element, the head element, and the body element.
+5. The index.html page is essentially the default page. When a URL is passed to a browser that does not specify a file, the browser automatically “looks for” and requests an index.html from the host server. It goes inside your root folder.
+6. Some of the best naming practices are CamelCase, using hyphens (-), and using periods (.). It is bad practice to use spaces, special characters, or start the name with numbers.
