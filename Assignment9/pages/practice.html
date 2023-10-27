@@ -14,12 +14,6 @@
                 background-color: khaki;
                 border: 2px black solid;
             }
-            .left{
-                text-align: left;
-            }
-            .right{
-                text-align: right;
-            }
         </style>
     </head>
     <body>
@@ -30,26 +24,26 @@
         <div>
             <form>
                 <table>
-                    <tr>
-                        <td text-align="right">
+                    <tr right>
+                        <td>
                             <label for="date">Date</label>
                         </td>
-                        <td text-align="right">
+                        <td>
                             <input type="date" id="Date"/>
                         </td>
                     </tr>
                     <tr>
-                        <td>
-                            <span class="left"><label for="PTTOO">Pay to the Order of</label></span>
+                        <td left>
+                            <label for="PTTOO">Pay to the Order of</label>
                         </td>
-                        <td>
-                            <span class="left"><input type="text" id="PTTOO"/></span>
+                        <td left>
+                            <input type="text" id="PTTOO"/>
                         </td>
-                        <td>
-                            <span class="right"><label for="$">$</label></span>
+                        <td right>
+                            <label for="$">$</label>
                         </td>
-                        <td>
-                            <span class="right"><input type="number" id="Number"/></span>
+                        <td right>
+                            <input type="number" id="Number"/>
                         </td>
                     </tr>
                 </table>
