@@ -10,6 +10,7 @@ body{
 }
 .sec-container{
     border-bottom: 2px rgb(255, 21, 21);
+    color: white;
 }
 
 div.align{
