@@ -1,5 +1,6 @@
 body{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
 }
 
 .main-container{
@@ -10,7 +11,6 @@ body{
 }
 .sec-container{
     border-bottom: 2px rgb(255, 21, 21);
-    color: white;
 }
 
 div.align{
