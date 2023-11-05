@@ -13,6 +13,7 @@ body{
     padding: 10px;
 }
 .sec-container{
+    margin: auto;
     width: 50%;
     border-bottom: 2px rgb(255, 21, 21);
 }
