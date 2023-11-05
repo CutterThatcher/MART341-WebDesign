@@ -1,15 +1,19 @@
 body{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     color: white;
+
 }
 
 .main-container{
+    border-style: solid;
     border-width: 10px;
     border-color: rgb(255, 21, 21);
+    padding: 10px;
     background-color: rgb(30, 7, 7);
     padding: 10px;
 }
 .sec-container{
+    width: 50%;
     border-bottom: 2px rgb(255, 21, 21);
 }
 
