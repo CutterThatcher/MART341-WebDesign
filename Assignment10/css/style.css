@@ -15,6 +15,7 @@ body{
 .sec-container{
     margin: auto;
     width: 75%;
+    padding: 25px;
     border-bottom: 2px rgb(255, 21, 21);
     border-spacing: inherit;
 }
