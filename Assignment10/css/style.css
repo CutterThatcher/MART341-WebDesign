@@ -1,0 +1,26 @@
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.main-container{
+    border-width: 10px;
+    border-color: rgb(255, 21, 21);
+    background-color: rgb(30, 7, 7);
+    padding: 10px;
+}
+.sec-container{
+    border-bottom: 2px rgb(255, 21, 21);
+}
+
+div.align{
+    text-align: center;
+}
+
+#header{
+    position: relative;
+    color: rgb(255, 21, 21);
+}
+
+#sec-header{
+    color: rgb(58, 95, 225);
+}
