@@ -27,6 +27,7 @@ div.align{
 #header{
     position: relative;
     color: rgb(255, 21, 21);
+    size: 50px;
 }
 
 #sec-header{
