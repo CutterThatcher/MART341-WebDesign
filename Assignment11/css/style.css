@@ -7,6 +7,7 @@ h1{
     font-family: HarryPotter;
     color: black;
     font-size: 100px;
+    border-bottom: 2px black solid;
 }
 
 h3{
