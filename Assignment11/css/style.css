@@ -7,7 +7,6 @@ h1{
     font-family: HarryPotter;
     color: black;
     font-size: 100px;
-    border-bottom: black solid;
 }
 
 h3{
@@ -52,3 +51,20 @@ h3{
     font-family: ScaryNotes;
     font-size: 25px;
 }
+
+button{
+    text-align: right;
+    color: black;
+    border: 2px solid black;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    transition-duration: 0.4s;
+    font-variant: inital;
+}
+
+.button:hover .choice-01 {
+    text-transform: uppercase;
+  }
