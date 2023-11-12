@@ -77,4 +77,5 @@ button{
 
 .button:hover .choice-01 {
     text-transform: uppercase;
+    background-color: rgb(1, 107, 80);
   }
