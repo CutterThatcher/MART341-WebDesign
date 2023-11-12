@@ -41,3 +41,13 @@ h3{
     font-family: MagicSchool;
     font-size: 25px;
 }
+
+.voldemort-container{
+    text-align: left;
+    margin: auto;
+    padding: 25px;
+    border-bottom: 2px black solid;
+    border-spacing: inherit;
+    font-family: ScaryNotes;
+    font-size: 25px;
+}
