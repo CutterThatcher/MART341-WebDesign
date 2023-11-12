@@ -52,6 +52,16 @@ h3{
     font-size: 25px;
 }
 
+.spell-container{
+    text-align: center;
+    margin: auto;
+    padding: 25px;
+    border-bottom: 2px black solid;
+    border-spacing: inherit;
+    font-family: ScaryNotes;
+    font-size: 25px;
+}
+
 button{
     text-align: right;
     color: black;
@@ -60,7 +70,7 @@ button{
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    font-size: 16px;
+    font-size: 25px;
     transition-duration: 0.4s;
     font-variant: inital;
 }
