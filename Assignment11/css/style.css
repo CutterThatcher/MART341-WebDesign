@@ -9,6 +9,11 @@ h1{
     font-size: 100px;
 }
 
+h3{
+    font-size: 50px;
+    font-style: bold;
+}
+
 .main-container{
     border-style: solid;
     border-width: 10px;
