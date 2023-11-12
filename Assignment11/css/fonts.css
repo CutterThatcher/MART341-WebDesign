@@ -1,34 +1,34 @@
 @font-face {
     font-family: 'Aquiline';
-    src: url('../fonts/AquilineTwo.ttf') format('opentype');
+    src: url('../fonts/AquilineTwo.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'MagicSchool';
-    src: url(../fonts/MagicSchoolOne-ovYz.ttf) format('opentype');
+    src: url(../fonts/MagicSchoolOne-ovYz.ttf) format('truetype');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'MagicSchool';
-    src: url(../fonts/MagicSchoolTwo-4n5D.ttf) format('opentype');
+    src: url(../fonts/MagicSchoolTwo-4n5D.ttf) format('truetype');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'HarryPotter';
-    src: url(../fonts/HarryPotter-ov4z.ttf) format('opentype');
+    src: url(../fonts/HarryPotter-ov4z.ttf) format('truetype');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'ScaryNotes';
-    src: url(../fonts/ScaryNotesPersonalUse-ZVAxl.otf) format('opentype');
+    src: url(../fonts/ScaryNotesPersonalUse-ZVAxl.otf) format('truetype');
     font-weight: normal;
     font-style: normal;
 }
