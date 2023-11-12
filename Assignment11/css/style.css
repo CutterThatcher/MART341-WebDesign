@@ -18,7 +18,7 @@ h1{
 }
 
 .harry-container{
-    image-rendering: auto;
+    text-align: left;
     margin: auto;
     padding: 25px;
     border-bottom: 2px black solid;
