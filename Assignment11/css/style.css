@@ -31,3 +31,13 @@ h3{
     font-family: Aquiline;
     font-size: 25px;
 }
+
+.dumbledore-container{
+    text-align: right;
+    margin: auto;
+    padding: 25px;
+    border-bottom: 2px black solid;
+    border-spacing: inherit;
+    font-family: MagicSchool;
+    font-size: 25px;
+}
