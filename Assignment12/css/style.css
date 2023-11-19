@@ -1,0 +1,21 @@
+body{
+    background-color: silver;
+}
+
+h1, h2{
+    color: maroon;
+}
+
+.dropdown{
+    background-color: black;
+    color: white;
+}
+
+.drop-content{
+    background-color: black;
+    color: white;
+}
+
+.drop-item{
+    font-family: 'Times New Roman', Times, serif;
+}
