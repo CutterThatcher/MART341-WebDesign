@@ -6,16 +6,19 @@ h1, h2{
     color: maroon;
 }
 
-.dropdown{
+.drop-button{
     background-color: black;
-    color: white;
+    color: maroon;
+    padding: 16px;
+    font-size: 16px;
+}
+
+.dropdown{
+    position: relative;
+    display: inline-block;
 }
 
 .drop-content{
-    background-color: black;
-    color: white;
-}
-
-.drop-item{
-    font-family: 'Times New Roman', Times, serif;
+    position: absolute;
+    background-color: white;
 }
