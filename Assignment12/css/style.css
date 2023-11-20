@@ -76,6 +76,7 @@ header {
 
 .scroll-box{
     width: 75%;
+    max-width: 75%;
     height: 25%;
     margin-top: 50px;
     background-color: rgb(255, 215, 0);
