@@ -2,7 +2,6 @@ body{
     background-color: silver;
 }
 
-/* Set your header design: */
 header {
     position: fixed;
     background-color: rgb(184, 115, 51);
@@ -13,7 +12,6 @@ header {
     text-align: left;
 }
 
-/* Set the layout of the menu: */
 .menu-item {
     display: inline-block;
     margin: 1em .2em;
@@ -21,9 +19,9 @@ header {
     text-align: center;
     background-color: rgb(184, 115, 51);
     padding: 0.5em 1em;
+    border: 1px solid rgb(255, 215, 0);
 }
 
-/* Style the links: */
 .menu-item a {
     color: rgb(255, 215, 0);
 }
@@ -33,7 +31,6 @@ header {
    
 }
 
-/* Add a dropdown feature: */
 .dropdown {
     display: inline-block;
 }
@@ -55,7 +52,6 @@ header {
     display: block;
 }
 
-/* Style dropdown item display: */
 .dropdown-item {
     display: block;
     text-align: left;
