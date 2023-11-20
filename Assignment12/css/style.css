@@ -48,7 +48,7 @@ header {
     z-index: 1;
 }
 .dropdown-content a {
-    color: #000;
+    color: black;
 }
 
 .dropdown:hover .dropdown-content {
