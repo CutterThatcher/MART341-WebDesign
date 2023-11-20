@@ -33,3 +33,7 @@ header{
     display: inline-block;
     padding: 1em;
 }
+
+.drop-content:hover {background-color: #ddd;}
+
+.dropdown:hover .drop-content {display: block;}
