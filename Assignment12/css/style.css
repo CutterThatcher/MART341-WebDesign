@@ -1,65 +1,70 @@
 body{
     background-color: silver;
+}
+
+/* Set your header design: */
+header {
+    position: fixed;
+    background-color: rgb(184, 115, 51);
     font-family: Arial, Helvetica, sans-serif;
+    margin-top: 0;
+    height: 4em;
+    width: 100%;
+    text-align: left;
 }
 
-/* Navbar container */
-.banner {
-  background-color: black;
+/* Set the layout of the menu: */
+.menu-item {
+    display: inline-block;
+    margin: 1em .2em;
+    min-width: 6em;
+    text-align: center;
+    background-color: rgb(184, 115, 51);
+    padding: 0.5em 1em;
 }
 
-/* Links inside the navbar */
-.banner a {
-  float: left;
-  font-size: 16px;
-  color: rgb(255, 215, 0);
-  text-align: center;
-  padding: 14px 16px;
+/* Style the links: */
+.menu-item a {
+    color: rgb(255, 215, 0);
 }
 
-/* The dropdown container */
+.menu-item:hover {
+    background-color: rgb(184, 115, 51);
+   
+}
+
+/* Add a dropdown feature: */
 .dropdown {
-  float: left;
-  overflow: hidden;
+    display: inline-block;
 }
 
-/* Dropdown button */
-.dropdown .dropbtn {
-  font-size: 16px;
-  color: rgb(184, 115, 51);
-  padding: 14px 16px;
-  background-color: inherit;
-  font-family: inherit;
-  margin: 0;
-}
-
-/* Add a background color to navbar links on hover */
-.banner a:hover, .dropdown:hover .dropbtn {
-  background-color: rgb(255, 215, 0);
-}
-
-/* Dropdown content (hidden by default) */
 .dropdown-content {
-  position: absolute;
-  background-color: rgb(184, 115, 51);
-  min-width: 160px;
-  z-index: 1;
+    display: none;
+    position: absolute;
+    border: 1px solid black;
+    margin: 0.5em 0 0 -1em;
+    color: black;
+    background-color: rgb(255, 215, 0);
+    z-index: 1;
 }
-
-/* Links inside the dropdown */
 .dropdown-content a {
-  color: black;
-  padding: 12px 16px;
-  display: block;
-  text-align: left;
+    color: #000;
 }
 
-/* Add a background color to dropdown links on hover */
-.dropdown-content a:hover {
-  background-color: rgb(184, 115, 51);
-}
-
-/* Show the dropdown menu on hover */
 .dropdown:hover .dropdown-content {
-  display: block;
+    display: block;
+}
+
+/* Style dropdown item display: */
+.dropdown-item {
+    display: block;
+    text-align: left;
+    margin: 0;
+    padding: 0.5em 1em 0.5em 1em;
+    min-width: 5.9em;
+}
+
+.dropdown-item:hover, .dropdown-item:hover a {
+    color: rgb(255, 215, 0);
+    background-color: rgb(184, 115, 51);
 }
