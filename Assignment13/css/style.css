@@ -12,11 +12,11 @@ header{
 
 .menu-item{
     display: inline-block;
-    /*margin: 1em .2em;*/
+    margin: 0.5em 0.5em;
     min-width: 5em;
     text-align: center;
     background-color: black;
-    /*padding: 0.5em 1em;*/
+    padding: 0.5em 1em;
 }
 
 .menu-item a{
@@ -42,6 +42,10 @@ header{
     z-index: 1;
 }
 
+.dropdown-content a {
+    color: black;
+}
+
 .dropdown:hover .dropdown-content{
     display: block;
 }
@@ -50,9 +54,9 @@ header{
     display: block;
     text-align: center;
     color: black;
-    /*margin: 0;
+    margin: 0;
     padding: 0.5em 1em 0.5em 1em;
-    min-width: 5.9em;*/
+    min-width: 6em
 }
 
 .dropdown-item:hover, .dropdown-item:hover a {
