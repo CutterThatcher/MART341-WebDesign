@@ -63,3 +63,13 @@ header{
 .dropdown-item:hover, .dropdown-item:hover a {
     background-color: gray;
 }
+
+.home-par{
+    font-family: Merriweather;
+    font-size: 25%;
+    color: white;
+    text-align: center;
+    width: 75%;
+    max-width: 75%;
+    left: 12.5%;
+}
