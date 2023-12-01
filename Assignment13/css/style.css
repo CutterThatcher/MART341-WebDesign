@@ -22,6 +22,7 @@ header{
 .menu-item a{
     color: white;
     text-transform: uppercase;
+    text-decoration: none;
 }
 
 .menu-item:hover{
