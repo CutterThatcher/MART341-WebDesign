@@ -160,15 +160,15 @@ h1{
 img{
     height: 50%;
     width: 50%;
-    margin-left: 25%;
-    margin-top: 12.5%;
+    margin: 12.5% 25%;
+    border-bottom: 2px solid black;
+    border-spacing: inherit;
 }
 
 .page-par{
     width: 75%;
     color: black;
     margin-left: 12.5%;
-    margin-top: 6.25%;
     font-family: Merriweather;
     font-size: 16px;
 }
