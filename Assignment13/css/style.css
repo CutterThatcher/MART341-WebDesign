@@ -76,13 +76,14 @@ div.align{
     max-width: 25%;
     padding: 25px;
     text-align: center;
+    position: relative;
 }
 
 h1{
     font-family: Merriweather;
     position: relative;
     text-align: center;
-    padding: 25px;
+    padding: 10px;
 }
 
 img{
