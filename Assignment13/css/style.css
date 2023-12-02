@@ -172,3 +172,10 @@ img{
     font-size: 16px;
     text-align: center;
 }
+
+@media only screen and (max-width: 600px){
+    body{
+        background-color: gray;
+        background-image: none;
+    }
+}
