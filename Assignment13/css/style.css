@@ -90,7 +90,8 @@ div.align{
     font-family: Merriweather;
     top: 0px;
     left: 0px;
-    position: relative;
+    position: absolute;
+    z-index: 2;
 }
 
 .heading-box2{
@@ -104,6 +105,7 @@ div.align{
     top: 0px;
     left: 0px;
     position: absolute;
+    z-index: 2;
 }
 
 .heading-box3{
@@ -116,7 +118,8 @@ div.align{
     font-family: Merriweather;
     top: 0px;
     left: 0px;
-    position: fixed;
+    position: absolute;
+    z-index: 2;
 }
 
 .heading-box4{
@@ -129,6 +132,8 @@ div.align{
     font-family: Merriweather;
     top: 0px;
     left: 0px;
+    position: absolute;
+    z-index: 2;
 }
 
 .heading-box5{
@@ -141,7 +146,8 @@ div.align{
     font-family: Merriweather;
     top: 0px;
     left: 0px;
-    position: relative;
+    position: absolute;
+    z-index: 2;
 }
 
 h1{
