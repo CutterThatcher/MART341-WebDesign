@@ -73,4 +73,11 @@ header{
     max-width: 25%;
     left: 50%;
     top: 50%;
+    position: relative;
+}
+
+h1{
+    font-family: Merriweather;
+    position: relative;
+    margin-top: 10px;
 }
