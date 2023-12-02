@@ -64,16 +64,18 @@ header{
     background-color: gray;
 }
 
+div.align{
+    text-align: center;
+}
+
 .home-par{
     font-family: Merriweather;
     font-size: 24px;
     color: white;
-    text-align: center;
     width: 25%;
     max-width: 25%;
     left: 50%;
     top: 50%;
-    position: static;
 }
 
 h1{
@@ -81,4 +83,9 @@ h1{
     position: relative;
     margin-top: 10px;
     text-align: center;
+}
+
+img{
+    height: 300px;
+    width: 300px;
 }
