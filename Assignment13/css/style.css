@@ -89,12 +89,13 @@ div.align{
     font-family: Merriweather;
     top: 0px;
     left: 0px;
-    margin-top: auto;
+    position: fixed;
 }
 
 h1{
     font-family: Merriweather;
     position: relative;
+    margin-top: auto;
 }
 
 img{
