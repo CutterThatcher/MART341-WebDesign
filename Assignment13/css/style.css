@@ -173,6 +173,11 @@ img{
     text-align: center;
 }
 
+body{
+    background-image: url(../images/volume.png);
+    background-size: cover;
+}
+
 @media only screen and (max-width: 500px){
     body{
         background-color: gray;
