@@ -92,6 +92,58 @@ div.align{
     position: relative;
 }
 
+.heading-box2{
+    width: 100%;
+    margin-top: 4em;
+    background-color: #111615;
+    color: #C62C2A;
+    text-align: left;
+    height: 4em;
+    font-family: Merriweather;
+    top: 0px;
+    left: 0px;
+    position: relative;
+}
+
+.heading-box3{
+    width: 100%;
+    margin-top: 4em;
+    background-color: #F92D0A;
+    color: #E98E09;
+    text-align: left;
+    height: 4em;
+    font-family: Merriweather;
+    top: 0px;
+    left: 0px;
+    position: relative;
+}
+
+.heading-box4{
+    width: 100%;
+    margin-top: 4em;
+    background-color: #2C1D15;
+    color: #CBA154;
+    text-align: left;
+    height: 4em;
+    font-family: Merriweather;
+    top: 0px;
+    left: 0px;
+    position: relative;
+}
+
+.heading-box5{
+    width: 100%;
+    margin-top: 4em;
+    background-color: #CFD0D4;
+    color: #DBBFCE;
+    text-align: left;
+    height: 4em;
+    font-family: Merriweather;
+    top: 0px;
+    left: 0px;
+    position: relative;
+}
+
 h1{
     font-family: Merriweather;
     position: relative;
