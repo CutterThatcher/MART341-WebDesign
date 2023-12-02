@@ -69,7 +69,8 @@ header{
     font-size: 24px;
     color: white;
     text-align: center;
-    width: 75%;
-    max-width: 75%;
+    width: 25%;
+    max-width: 25%;
     left: 50%;
+    top: 50%;
 }
