@@ -1,3 +1,8 @@
+body{
+    background-image: url(../images/volume.png);
+    background-size: cover;
+}
+
 header{
     position: fixed;
     background-color: black;
