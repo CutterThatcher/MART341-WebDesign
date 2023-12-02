@@ -8,6 +8,7 @@ header{
     height: 4em;
     width: 100%;
     text-align: left;
+    z-index: 2;
 }
 
 .menu-item{
@@ -41,7 +42,7 @@ header{
     margin: 0.5em 0 0 -0.5em;
     color: black;
     background-color: white;
-    z-index: 2;
+    z-index: 3;
 }
 
 .dropdown-content a {
