@@ -89,6 +89,7 @@ div.align{
     font-family: Merriweather;
     top: 0px;
     left: 0px;
+    position: absolute;
 }
 
 h1{
