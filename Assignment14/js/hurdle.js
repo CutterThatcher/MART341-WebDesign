@@ -1,6 +1,5 @@
 var c = document.getElementById("myCanvas");
 var ctx = c.getContext("2d");
-var cty = c.getContext("2d");
 
 // Clear the canvas
 ctx.clearRect(0, 0, canvas.width, canvas.height);
