@@ -8,11 +8,11 @@ ctx.lineWidth = 2;
 
 // Draw the football shape using lineTo() and curves
 ctx.beginPath();
-ctx.moveTo(250, 100); // Move to the starting point
+ctx.moveTo(50, 300); // Move to the starting point
 
-ctx.quadraticCurveTo(350, 75, 450, 100);
+ctx.quadraticCurveTo(250, 200, 450, 300);
 
-ctx.quadraticCurveTo(350, 125, 250, 100);
+ctx.quadraticCurveTo(250, 400, 250, 300);
 
 // Close the path and fill the football
 ctx.closePath();
