@@ -14,6 +14,6 @@ ctx.moveTo(250, 500);
 ctx.lineTo(250, 100);
 ctx.moveTo(50, 300);
 ctx.lineTo(450, 300)
-ctx.moveTo(250, 100);
-ctx.quadraticCurveTo(275, 300, 250, 500);
+ctx.moveTo(125, 150);
+ctx.quadraticCurveTo(125, 300, 125, 250);
 ctx.stroke();
