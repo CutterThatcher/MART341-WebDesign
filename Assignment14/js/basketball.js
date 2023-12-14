@@ -12,4 +12,6 @@ ctx.fill();
 
 ctx.moveTo(250, 500);
 ctx.lineTo(250, 100);
+ctx.moveTo(50, 300);
+ctx.lineTo(450, 300)
 ctx.stroke();
