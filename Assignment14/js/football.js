@@ -19,8 +19,34 @@ ctx.closePath();
 ctx.fill();
 
 ctx.beginPath();
-ctx.moveTo(200, 300);
-ctx.lineTo(300, 300);
+ctx.moveTo(150, 300);
+ctx.lineTo(350, 300);
+
+ctx.moveTo(150, 290);
+ctx.lineTo(150, 310);
+
+ctx.moveTo(175, 290);
+ctx.lineTo(175, 310);
+
 ctx.moveTo(200, 290);
 ctx.lineTo(200, 310);
+
+ctx.moveTo(225, 290);
+ctx.lineTo(225, 310);
+
+ctx.moveTo(250, 290);
+ctx.lineTo(250, 310);
+
+ctx.moveTo(275, 290);
+ctx.lineTo(275, 310);
+
+ctx.moveTo(300, 290);
+ctx.lineTo(300, 310);
+
+ctx.moveTo(325, 290);
+ctx.lineTo(325, 310);
+
+ctx.moveTo(350, 290);
+ctx.lineTo(350, 310);
+
 ctx.stroke();
