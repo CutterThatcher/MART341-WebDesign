@@ -2,10 +2,10 @@
 
 // Get the canvas element and its ctx
 var c = document.getElementById('FootballCanvas');
-var ctx = canvas.getContext('2d');
+var ctx = c.getContext('2d');
 
 // Clear the canvas
-ctx.clearRect(0, 0, canvas.width, canvas.height);
+ctx.clearRect(0, 0, c.width, c.height);
 
 // Set the colors and line width
 ctx.fillStyle = '#000'; // Black color for the football
