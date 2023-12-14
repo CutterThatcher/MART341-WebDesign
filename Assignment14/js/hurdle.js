@@ -11,7 +11,7 @@ ctx.closePath(); // Close the path
 ctx.fillStyle = '#A9A9A9';
 ctx.fill(); // Fill the base
 
-// Draw the hurdle posts
+// Draw the left post
 ctx.beginPath();
 ctx.moveTo(100, 200); //starting point
 ctx.lineTo(100, 100); //line up
@@ -21,12 +21,23 @@ ctx.closePath();
 ctx.fillStyle = '#9D123C';
 ctx.fill();
 
+// Draw the right post
 ctx.beginPath();
-ctx.moveTo(300, 200);
-ctx.lineTo(300, 100);
-ctx.lineTo(290, 100);
-ctx.lineTo(290, 200);
+ctx.moveTo(300, 200); //starting
+ctx.lineTo(300, 100); // line up
+ctx.lineTo(290, 100);// line left
+ctx.lineTo(290, 200);// line down
 ctx.closePath();
+ctx.fill();
+
+// Draw the crossbar
+ctx.beginPath()
+ctx.moveTo(95, 100); //starting
+ctx.lineTo(305, 100); //line right
+ctx.lineTo(305, 90); //line up
+ctx.lineTo(95, 90); //line left
+ctx.closePath();
+ctx.fillStyle = 'black';
 ctx.fill();
 
 
