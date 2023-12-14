@@ -10,9 +10,9 @@ ctx.lineWidth = 2;
 ctx.beginPath();
 ctx.moveTo(50, 300); // Move to the starting point
 
-ctx.quadraticCurveTo(250, 175, 450, 300);
+ctx.quadraticCurveTo(250, 150, 450, 300);
 ctx.stroke();
-ctx.quadraticCurveTo(250, 425, 50, 300);
+ctx.quadraticCurveTo(250, 450, 50, 300);
 ctx.stroke();
 // Close the path and fill the football
 ctx.closePath();
