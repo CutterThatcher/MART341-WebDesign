@@ -21,6 +21,14 @@ ctx.closePath();
 ctx.fillStyle = '#9D123C';
 ctx.fill();
 
+ctx.beginPath();
+ctx.moveTo(300, 200);
+ctx.lineTo(300, 100);
+ctx.lineTo(290, 100);
+ctx.lineTo(290, 200);
+ctx.closePath();
+ctx.fill();
+
 
 
 
