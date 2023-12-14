@@ -31,7 +31,7 @@ ctx.closePath();
 ctx.fill();
 
 // Draw the crossbar
-ctx.beginPath()
+ctx.beginPath();
 ctx.moveTo(95, 100); //starting
 ctx.lineTo(305, 100); //line right
 ctx.lineTo(305, 90); //line up
@@ -39,20 +39,3 @@ ctx.lineTo(95, 90); //line left
 ctx.closePath();
 ctx.fillStyle = '#000000';
 ctx.fill();
-
-
-
-
-// ctx.moveTo(320, 320); // Move to the starting point of the first post
-// ctx.lineTo(320, 400); // Draw a line up for the first post
-// ctx.stroke(); // Draw the first post
-
-// ctx.moveTo(480, 320); // Move to the starting point of the second post
-// ctx.lineTo(480, 320); // Draw a line up for the second post
-// ctx.stroke(); // Draw the second post
-
-// // Draw the crossbar
-// ctx.beginPath();
-// ctx.moveTo(320, 280); // Move to the starting point of the crossbar
-// ctx.lineTo(520, 280); // Draw a line to the right for the crossbar
-// ctx.stroke(); // Draw the crossbar
