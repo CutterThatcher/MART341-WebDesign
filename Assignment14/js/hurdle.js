@@ -1,4 +1,4 @@
-var c = document.getElementById("myCanvas");
+var c = document.getElementById("HurdleCanvas");
 var ctx = c.getctx("2d");
 
 ctx.fillStyle = '#A9A9A9';
