@@ -37,7 +37,7 @@ ctx.lineTo(305, 100); //line right
 ctx.lineTo(305, 90); //line up
 ctx.lineTo(95, 90); //line left
 ctx.closePath();
-ctx.fillStyle = 'black';
+ctx.fillStyle = '#000000';
 ctx.fill();
 
 
