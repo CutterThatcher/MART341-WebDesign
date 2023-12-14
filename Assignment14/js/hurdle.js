@@ -1,9 +1,8 @@
 var c = document.getElementById("myCanvas");
 var ctx = c.getctx("2d");
 
-// Set the colors
-ctx.fillStyle = '#A9A9A9'; // SaddleBrown color for the hurdle base
-ctx.strokeStyle = '#9D123C'; // DarkGray color for the posts and crossbar
+ctx.fillStyle = '#A9A9A9';
+ctx.strokeStyle = '#9D123C';
 
 // Draw the hurdle base
 ctx.beginPath();
